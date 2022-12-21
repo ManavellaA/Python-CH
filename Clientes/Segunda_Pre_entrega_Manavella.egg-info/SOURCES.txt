@@ -1,0 +1,7 @@
+setup.py
+Pre_entregas/PreEntrega1.py
+Pre_entregas/PreEntrega2.py
+Segunda_Pre_entrega_Manavella.egg-info/PKG-INFO
+Segunda_Pre_entrega_Manavella.egg-info/SOURCES.txt
+Segunda_Pre_entrega_Manavella.egg-info/dependency_links.txt
+Segunda_Pre_entrega_Manavella.egg-info/top_level.txt
